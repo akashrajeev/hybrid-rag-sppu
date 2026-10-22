@@ -1,0 +1,2206 @@
+[
+{
+"q": "Which college is examination centre College-0002 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0002:"
+],
+"gold": [
+[
+"296116f8",
+1
+],
+[
+"296116f8",
+8
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 0,
+"answer": "FERGUSSON COLLEGE, PUNE -411004"
+},
+{
+"q": "What is the seminar work assessed on?",
+"type": "semantic",
+"keys": [
+"Topic selection, Contents and Presentation"
+],
+"gold": [
+[
+"f7e2e79f",
+11
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 1,
+"answer": null
+},
+{
+"q": "What is the title of course IT351MJ?",
+"type": "id",
+"keys": [
+"IT351MJ"
+],
+"gold": [
+[
+"34860505",
+9
+]
+],
+"src": "script",
+"split": "test",
+"id": 2,
+"answer": "Data Analysis Tool"
+},
+{
+"q": "Which control component sits between field devices and the server in building automation?",
+"type": "semantic",
+"keys": [
+"Direct Digital Control"
+],
+"gold": [
+[
+"867747b5",
+70
+]
+],
+"src": "hand",
+"split": "test",
+"id": 3,
+"answer": "Direct Digital Control"
+},
+{
+"q": "Which lab task asks for subnet and host counts in IPv6 networks?",
+"type": "semantic",
+"keys": [
+"Calculate the number of subnets and hosts per subnet for IPv6"
+],
+"gold": [
+[
+"34860505",
+40
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 4,
+"answer": null
+},
+{
+"q": "Which first year course has code 103004?",
+"type": "id",
+"keys": [
+"103004"
+],
+"gold": [
+[
+"f7e2e79f",
+6
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 5,
+"answer": null
+},
+{
+"q": "What is the course code of Software Engineering?",
+"type": "mixed",
+"keys": [
+"IT231VSC",
+"Software"
+],
+"gold": [
+[
+"34860505",
+7
+]
+],
+"src": "script",
+"split": "dev",
+"id": 6,
+"answer": "IT231VSC"
+},
+{
+"q": "Which college is examination centre College-0653 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0653:"
+],
+"gold": [
+[
+"296116f8",
+35
+]
+],
+"src": "v1",
+"split": "test",
+"id": 7,
+"answer": null
+},
+{
+"q": "What marks does the database management lab PCC-254-COM carry?",
+"type": "id",
+"keys": [
+"PCC-254-COM : Database Management Laboratory"
+],
+"gold": [
+[
+"fa9dbe66",
+60
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 8,
+"answer": null
+},
+{
+"q": "Which college or institute has Puncode CANN020150 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CANN020150"
+],
+"gold": [
+[
+"69167308",
+80
+]
+],
+"src": "v1",
+"split": "test",
+"id": 9,
+"answer": "Adivasi seva samittii"
+},
+{
+"q": "What is the title of course EEM-231-COM?",
+"type": "id",
+"keys": [
+"EEM-231-COM"
+],
+"gold": [
+[
+"fa9dbe66",
+37
+]
+],
+"src": "script",
+"split": "dev",
+"id": 10,
+"answer": "Entrepreneurship Development"
+},
+{
+"q": "What is the title of course PCC-254-COM?",
+"type": "id",
+"keys": [
+"PCC-254-COM"
+],
+"gold": [
+[
+"fa9dbe66",
+60
+]
+],
+"src": "script",
+"split": "test",
+"id": 11,
+"answer": "Database Management Laboratory"
+},
+{
+"q": "What is the title of course IT303MJ?",
+"type": "id",
+"keys": [
+"IT303MJ"
+],
+"gold": [
+[
+"34860505",
+8
+]
+],
+"src": "script",
+"split": "dev",
+"id": 12,
+"answer": "Mobile Application Development"
+},
+{
+"q": "How many credits must an engineering student earn to be awarded the bachelor's degree?",
+"type": "semantic",
+"keys": [
+"earns 170 credits"
+],
+"gold": [
+[
+"f7e2e79f",
+12
+]
+],
+"src": "hand",
+"split": "test",
+"id": 13,
+"answer": "earns 170 credits"
+},
+{
+"q": "What is the title of course IT431RP?",
+"type": "id",
+"keys": [
+"IT431RP"
+],
+"gold": [
+[
+"34860505",
+10
+]
+],
+"src": "script",
+"split": "test",
+"id": 14,
+"answer": "Research Project"
+},
+{
+"q": "Which edge detection operators are taught in low level image processing?",
+"type": "semantic",
+"keys": [
+"Sobel, Canny"
+],
+"gold": [
+[
+"867747b5",
+30
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 15,
+"answer": "Sobel, Canny"
+},
+{
+"q": "What is the course code of IT Service Management?",
+"type": "mixed",
+"keys": [
+"IT321VSC",
+"IT"
+],
+"gold": [
+[
+"34860505",
+8
+]
+],
+"src": "script",
+"split": "test",
+"id": 16,
+"answer": "IT321VSC"
+},
+{
+"q": "What is the course code of Spring Boot & Hibernate?",
+"type": "mixed",
+"keys": [
+"IT410MJ",
+"Spring"
+],
+"gold": [
+[
+"34860505",
+10
+],
+[
+"34860505",
+12
+]
+],
+"src": "script",
+"split": "dev",
+"id": 17,
+"answer": "IT410MJ"
+},
+{
+"q": "What are the teaching scheme and marks for the data structures practical course PCC-204-COM?",
+"type": "id",
+"keys": [
+"PCC-204-COM : Data Structures Laboratory"
+],
+"gold": [
+[
+"fa9dbe66",
+25
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 18,
+"answer": null
+},
+{
+"q": "Which networking textbook by Forouzan is recommended?",
+"type": "mixed",
+"keys": [
+"Forouzan"
+],
+"gold": [
+[
+"867747b5",
+23
+],
+[
+"867747b5",
+24
+],
+[
+"34860505",
+38
+],
+[
+"34860505",
+40
+]
+],
+"src": "hand",
+"split": "test",
+"id": 19,
+"answer": null
+},
+{
+"q": "Which college is examination centre College-093 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-093:"
+],
+"gold": [
+[
+"296116f8",
+9
+]
+],
+"src": "v1",
+"split": "test",
+"id": 20,
+"answer": null
+},
+{
+"q": "Which college or institute has Puncode CAAA016090 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAA016090"
+],
+"gold": [
+[
+"69167308",
+107
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 21,
+"answer": "Chnadraroop Dakle Jain"
+},
+{
+"q": "How do students estimate calcium and magnesium salts in a water sample by titration?",
+"type": "semantic",
+"keys": [
+"Eriochrome"
+],
+"gold": [
+[
+"3ee2c7b7",
+20
+]
+],
+"src": "v1",
+"split": "test",
+"id": 22,
+"answer": null
+},
+{
+"q": "What is course IT101MJ in the B.Sc. IT first year?",
+"type": "id",
+"keys": [
+"IT101MJ Problem Solving"
+],
+"gold": [
+[
+"34860505",
+4
+]
+],
+"src": "hand",
+"split": "test",
+"id": 23,
+"answer": null
+},
+{
+"q": "Which communication protocols are covered for industrial IoT devices?",
+"type": "semantic",
+"keys": [
+"LWM2M"
+],
+"gold": [
+[
+"867747b5",
+70
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 24,
+"answer": "LWM2M"
+},
+{
+"q": "When will oral and practical exams for SE, TE and BE engineering run in winter 2026?",
+"type": "semantic",
+"keys": [
+"Diwali",
+"Nov., 2026"
+],
+"gold": [
+[
+"2cd62a25",
+1
+],
+[
+"ec929ab0",
+1
+]
+],
+"src": "v1",
+"split": "test",
+"id": 25,
+"answer": null
+},
+{
+"q": "Which fourth year honors course has code IT407MJ?",
+"type": "id",
+"keys": [
+"IT407MJ Cyber Security"
+],
+"gold": [
+[
+"34860505",
+12
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 26,
+"answer": null
+},
+{
+"q": "Which college is examination centre College-0228 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0228:"
+],
+"gold": [
+[
+"296116f8",
+23
+]
+],
+"src": "v1",
+"split": "test",
+"id": 27,
+"answer": null
+},
+{
+"q": "Which university is listed at serial number 661 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"661. MIT Vishwaprayag University"
+],
+"gold": [
+[
+"77469d6a",
+139
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 28,
+"answer": "MIT Vishwaprayag University"
+},
+{
+"q": "Which college is examination centre College-0630 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0630:"
+],
+"gold": [
+[
+"296116f8",
+33
+]
+],
+"src": "v1",
+"split": "test",
+"id": 29,
+"answer": "MAHARASHTRA COLLEGE OF SCIENCE & COMMERCE,KOTHRUD, PUNE"
+},
+{
+"q": "What is the aim of experiment P-2 in CH-303 Practical Chemistry-III?",
+"type": "id",
+"keys": [
+"Expt No.P-2:"
+],
+"gold": [
+[
+"3ee2c7b7",
+3
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 30,
+"answer": "To study the kinetics of saponification"
+},
+{
+"q": "What is the last date for holding ME dissertation exams for the Oct/Nov 2024 session?",
+"type": "semantic",
+"keys": [
+"extension of last date"
+],
+"gold": [
+[
+"44e2b85e",
+1
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 31,
+"answer": null
+},
+{
+"q": "How are the 70 end-semester marks divided among the units?",
+"type": "semantic",
+"keys": [
+"TABLE -10"
+],
+"gold": [
+[
+"f7e2e79f",
+9
+]
+],
+"src": "hand",
+"split": "test",
+"id": 32,
+"answer": null
+},
+{
+"q": "What is the aim of experiment A-4 in CH-303 Practical Chemistry-III?",
+"type": "id",
+"keys": [
+"Expt No. A-4:"
+],
+"gold": [
+[
+"3ee2c7b7",
+20
+]
+],
+"src": "v1",
+"split": "test",
+"id": 33,
+"answer": "Determination of Hardness of water from"
+},
+{
+"q": "What is the course code of Object Oriented Software Engineering?",
+"type": "mixed",
+"keys": [
+"IT302MJ",
+"Object"
+],
+"gold": [
+[
+"34860505",
+8
+]
+],
+"src": "script",
+"split": "dev",
+"id": 34,
+"answer": "IT302MJ"
+},
+{
+"q": "Which college or institute has Puncode CAAP011900 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAP011900"
+],
+"gold": [
+[
+"69167308",
+28
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 35,
+"answer": "PDEA'S SHANKARRAO BHELKE"
+},
+{
+"q": "What are program outcomes for B.E. Computer Science and Design graduates?",
+"type": "semantic",
+"keys": [
+"PO1 Engineering knowledge"
+],
+"gold": [
+[
+"867747b5",
+8
+],
+[
+"fa9dbe66",
+8
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 36,
+"answer": null
+},
+{
+"q": "What grade point does a score between 80 and 89 percent get?",
+"type": "semantic",
+"keys": [
+"Very Good",
+"80-89"
+],
+"gold": [
+[
+"f7e2e79f",
+12
+]
+],
+"src": "hand",
+"split": "test",
+"id": 37,
+"answer": "Very Good"
+},
+{
+"q": "Which college is examination centre College-0883 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0883:"
+],
+"gold": [
+[
+"296116f8",
+61
+]
+],
+"src": "v1",
+"split": "test",
+"id": 38,
+"answer": "S.N.B.P. COLLEGE,YERAWADA , PUNE"
+},
+{
+"q": "Which database lab objective talks about entity relationship diagrams?",
+"type": "semantic",
+"keys": [
+"E-R diagrams"
+],
+"gold": [
+[
+"fa9dbe66",
+60
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 39,
+"answer": "E-R diagrams"
+},
+{
+"q": "What is the title of course IT353MJ?",
+"type": "id",
+"keys": [
+"IT353MJ"
+],
+"gold": [
+[
+"34860505",
+9
+]
+],
+"src": "script",
+"split": "dev",
+"id": 40,
+"answer": "Data Mining"
+},
+{
+"q": "What is the college code of RAYAT SHIKSHAN SANSTHA’S S M JOSHI COLLEGE PUNE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-0187:"
+],
+"gold": [
+[
+"296116f8",
+18
+]
+],
+"src": "v1",
+"split": "test",
+"id": 41,
+"answer": "College-0187"
+},
+{
+"q": "What is the course code of Block Chain Technology?",
+"type": "mixed",
+"keys": [
+"IT304MJ",
+"Block"
+],
+"gold": [
+[
+"34860505",
+8
+]
+],
+"src": "script",
+"split": "dev",
+"id": 42,
+"answer": "IT304MJ"
+},
+{
+"q": "Which university is listed at serial number 1093 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"1093. United University"
+],
+"gold": [
+[
+"77469d6a",
+157
+]
+],
+"src": "v1",
+"split": "test",
+"id": 43,
+"answer": "United University"
+},
+{
+"q": "Which university is listed at serial number 653 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"653. Maharashtra National Law University"
+],
+"gold": [
+[
+"77469d6a",
+138
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 44,
+"answer": "Maharashtra National Law University"
+},
+{
+"q": "Can a graduate of any discipline join the three year law degree?",
+"type": "semantic",
+"keys": [
+"THREE YEAR DEGREE LAW"
+],
+"gold": [
+[
+"5c2b379e",
+90
+],
+[
+"77469d6a",
+93
+]
+],
+"src": "v1",
+"split": "test",
+"id": 45,
+"answer": null
+},
+{
+"q": "What is the college code of SHREE SIDDHIVINAYAK ARTS & COMMERCE MAHILA MAHAVIDYALAYA as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-214:"
+],
+"gold": [
+[
+"296116f8",
+20
+]
+],
+"src": "v1",
+"split": "test",
+"id": 46,
+"answer": "College-214"
+},
+{
+"q": "In how many batches per division must practicals and tutorials run?",
+"type": "semantic",
+"keys": [
+"three batches per division"
+],
+"gold": [
+[
+"f7e2e79f",
+7
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 47,
+"answer": "three batches per division"
+},
+{
+"q": "Which college is examination centre College-0848 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0848:"
+],
+"gold": [
+[
+"296116f8",
+53
+]
+],
+"src": "v1",
+"split": "test",
+"id": 48,
+"answer": "SNBP COLLEGE OF ARTS, COMMERCE & SCIENCE, PIMPRI PUNE"
+},
+{
+"q": "Which university is listed at serial number 473 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"473. Rajiv Gandhi University"
+],
+"gold": [
+[
+"77469d6a",
+130
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 49,
+"answer": "Rajiv Gandhi University"
+},
+{
+"q": "What is the title of course IT462MJ?",
+"type": "id",
+"keys": [
+"IT462MJ"
+],
+"gold": [
+[
+"34860505",
+13
+]
+],
+"src": "script",
+"split": "test",
+"id": 50,
+"answer": "Cloud Computing"
+},
+{
+"q": "Which course is coded 110005 in first year engineering?",
+"type": "id",
+"keys": [
+"110005"
+],
+"gold": [
+[
+"f7e2e79f",
+6
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 51,
+"answer": null
+},
+{
+"q": "What kind of problem may students pick for project based learning?",
+"type": "semantic",
+"keys": [
+"wondering within different disciplines"
+],
+"gold": [
+[
+"f7e2e79f",
+4
+]
+],
+"src": "hand",
+"split": "test",
+"id": 52,
+"answer": "wondering within different disciplines"
+},
+{
+"q": "What orientation activities help new students adapt from school to college?",
+"type": "semantic",
+"keys": [
+"Familiarization with College"
+],
+"gold": [
+[
+"f7e2e79f",
+3
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 53,
+"answer": "Familiarization with College"
+},
+{
+"q": "What is the college code of COMMERCE & SCIENCE COLLEGE, PUNE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-0856:"
+],
+"gold": [
+[
+"296116f8",
+56
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 54,
+"answer": "College-0856"
+},
+{
+"q": "What is the course code of Cloud Computing?",
+"type": "mixed",
+"keys": [
+"IT460MJ",
+"Cloud"
+],
+"gold": [
+[
+"34860505",
+11
+],
+[
+"34860505",
+13
+]
+],
+"src": "script",
+"split": "test",
+"id": 55,
+"answer": "IT460MJ"
+},
+{
+"q": "What is the title of course IT252MJ?",
+"type": "id",
+"keys": [
+"IT252MJ"
+],
+"gold": [
+[
+"34860505",
+7
+]
+],
+"src": "script",
+"split": "test",
+"id": 56,
+"answer": "Exploratory Data Analysis"
+},
+{
+"q": "How is the semester grade point average calculated?",
+"type": "semantic",
+"keys": [
+"Semester Grade Point Average (SGPA)"
+],
+"gold": [
+[
+"f7e2e79f",
+13
+]
+],
+"src": "hand",
+"split": "test",
+"id": 57,
+"answer": null
+},
+{
+"q": "What is the title of course IT406MJ?",
+"type": "id",
+"keys": [
+"IT406MJ"
+],
+"gold": [
+[
+"34860505",
+10
+],
+[
+"34860505",
+12
+]
+],
+"src": "script",
+"split": "dev",
+"id": 58,
+"answer": "Angular JS"
+},
+{
+"q": "What is the college code of SHRI GURUDATTA GRAMVIKAS PRATISHTHAN'S COLLEGE OF BBA/BCA/BCS/BBM , PUNE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-0851:"
+],
+"gold": [
+[
+"296116f8",
+54
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 59,
+"answer": "College-0851"
+},
+{
+"q": "Which college or institute has Puncode CAAP020800 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAP020800"
+],
+"gold": [
+[
+"69167308",
+9
+],
+[
+"69167308",
+36
+]
+],
+"src": "v1",
+"split": "test",
+"id": 60,
+"answer": "SHRI PANDHARINATH ARTS,"
+},
+{
+"q": "How many marks is the end-semester written theory exam?",
+"type": "semantic",
+"keys": [
+"Phase II as End-Semester Examination of 70 marks"
+],
+"gold": [
+[
+"f7e2e79f",
+9
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 61,
+"answer": null
+},
+{
+"q": "Which college is examination centre College-0227 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0227:"
+],
+"gold": [
+[
+"296116f8",
+22
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 62,
+"answer": null
+},
+{
+"q": "What is the title of course IT408MJ?",
+"type": "id",
+"keys": [
+"IT408MJ"
+],
+"gold": [
+[
+"34860505",
+10
+],
+[
+"34860505",
+12
+]
+],
+"src": "script",
+"split": "test",
+"id": 63,
+"answer": "Spring Boot & Hibernate"
+},
+{
+"q": "Which hotel management institute appears in the research competition schedule?",
+"type": "semantic",
+"keys": [
+"Hotel Management"
+],
+"gold": [
+[
+"69167308",
+18
+]
+],
+"src": "v1",
+"split": "test",
+"id": 64,
+"answer": null
+},
+{
+"q": "What is the title of course IT451MN?",
+"type": "id",
+"keys": [
+"IT451MN"
+],
+"gold": [
+[
+"34860505",
+10
+]
+],
+"src": "script",
+"split": "dev",
+"id": 65,
+"answer": "Research Methodology"
+},
+{
+"q": "What is the course code of Cloud Computing Architecture and Design?",
+"type": "mixed",
+"keys": [
+"IT155MJ",
+"Cloud"
+],
+"gold": [
+[
+"34860505",
+5
+],
+[
+"34860505",
+41
+],
+[
+"34860505",
+43
+]
+],
+"src": "script",
+"split": "test",
+"id": 66,
+"answer": "IT155MJ"
+},
+{
+"q": "Which college is examination centre College-0626 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0626:"
+],
+"gold": [
+[
+"296116f8",
+31
+]
+],
+"src": "v1",
+"split": "test",
+"id": 67,
+"answer": null
+},
+{
+"q": "What is the title of course PCC-204-COM?",
+"type": "id",
+"keys": [
+"PCC-204-COM"
+],
+"gold": [
+[
+"fa9dbe66",
+25
+]
+],
+"src": "script",
+"split": "dev",
+"id": 68,
+"answer": "Data Structures Laboratory"
+},
+{
+"q": "What is the course code of Design and Analysis of Algorithm?",
+"type": "mixed",
+"keys": [
+"IT403MJ",
+"Design"
+],
+"gold": [
+[
+"34860505",
+10
+],
+[
+"34860505",
+12
+]
+],
+"src": "script",
+"split": "dev",
+"id": 69,
+"answer": "IT403MJ"
+},
+{
+"q": "What is the title of course IT401MJ?",
+"type": "id",
+"keys": [
+"IT401MJ"
+],
+"gold": [
+[
+"34860505",
+10
+],
+[
+"34860505",
+12
+]
+],
+"src": "script",
+"split": "test",
+"id": 70,
+"answer": "Modern Operating System"
+},
+{
+"q": "What does ATKT stand for?",
+"type": "mixed",
+"keys": [
+"Allowed To Keep Term"
+],
+"gold": [
+[
+"5c2b379e",
+12
+],
+[
+"f7e2e79f",
+5
+],
+[
+"f7e2e79f",
+11
+]
+],
+"src": "hand",
+"split": "test",
+"id": 71,
+"answer": "Allowed To Keep Term"
+},
+{
+"q": "What is the title of course IT201MJ?",
+"type": "id",
+"keys": [
+"IT201MJ"
+],
+"gold": [
+[
+"34860505",
+6
+]
+],
+"src": "script",
+"split": "dev",
+"id": 72,
+"answer": "Object Oriented Programming using Python"
+},
+{
+"q": "Which university is listed at serial number 1138 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"1138. Uttarakhand Sanskrit University"
+],
+"gold": [
+[
+"77469d6a",
+159
+]
+],
+"src": "v1",
+"split": "test",
+"id": 73,
+"answer": "Uttarakhand Sanskrit University"
+},
+{
+"q": "What is the course code of Network Security?",
+"type": "mixed",
+"keys": [
+"IT456MJ",
+"Network"
+],
+"gold": [
+[
+"34860505",
+13
+]
+],
+"src": "script",
+"split": "dev",
+"id": 74,
+"answer": "IT456MJ"
+},
+{
+"q": "What is the title of course IT101MJ?",
+"type": "id",
+"keys": [
+"IT101MJ"
+],
+"gold": [
+[
+"34860505",
+4
+],
+[
+"34860505",
+15
+],
+[
+"34860505",
+17
+]
+],
+"src": "script",
+"split": "dev",
+"id": 75,
+"answer": "Problem Solving using Python Programming"
+},
+{
+"q": "In CH-303 what is the aim of the persulphate-iodide kinetics experiment P-5?",
+"type": "mixed",
+"keys": [
+"Expt No. P-5"
+],
+"gold": [
+[
+"3ee2c7b7",
+6
+]
+],
+"src": "v1",
+"split": "test",
+"id": 76,
+"answer": null
+},
+{
+"q": "What is the title of course IT407MJ?",
+"type": "id",
+"keys": [
+"IT407MJ"
+],
+"gold": [
+[
+"34860505",
+10
+],
+[
+"34860505",
+12
+]
+],
+"src": "script",
+"split": "test",
+"id": 77,
+"answer": "Cyber Security"
+},
+{
+"q": "What does the grade FX mean on a result?",
+"type": "semantic",
+"keys": [
+"Detained, Repeat the Course"
+],
+"gold": [
+[
+"f7e2e79f",
+12
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 78,
+"answer": "Detained, Repeat the Course"
+},
+{
+"q": "Which university is listed at serial number 1178 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"1178. St. Xavier's University"
+],
+"gold": [
+[
+"77469d6a",
+160
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 79,
+"answer": "St. Xavier's University"
+},
+{
+"q": "Which college or institute has Puncode CAAP011406 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAP011406"
+],
+"gold": [
+[
+"69167308",
+11
+]
+],
+"src": "v1",
+"split": "test",
+"id": 80,
+"answer": "College of Computer"
+},
+{
+"q": "What share of PBL assessment goes to the idea inception?",
+"type": "mixed",
+"keys": [
+"Idea Inception (5%)"
+],
+"gold": [
+[
+"f7e2e79f",
+10
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 81,
+"answer": null
+},
+{
+"q": "What is the aim of experiment P-5 in CH-303 Practical Chemistry-III?",
+"type": "id",
+"keys": [
+"Expt No. P-5:"
+],
+"gold": [
+[
+"3ee2c7b7",
+6
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 82,
+"answer": "To determine the order of the"
+},
+{
+"q": "Which synthesis uses a metal powder with an aromatic amine and glacial acid?",
+"type": "semantic",
+"keys": [
+"Aniline"
+],
+"gold": [
+[
+"3ee2c7b7",
+12
+]
+],
+"src": "v1",
+"split": "test",
+"id": 83,
+"answer": null
+},
+{
+"q": "Which college or institute has Puncode CEGN018910 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CEGN018910"
+],
+"gold": [
+[
+"69167308",
+91
+]
+],
+"src": "v1",
+"split": "test",
+"id": 84,
+"answer": "Pune Vidyarthi Griha’s"
+},
+{
+"q": "Which college or institute has Puncode CLWA017040 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CLWA017040"
+],
+"gold": [
+[
+"69167308",
+109
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 85,
+"answer": "Shikshan Prasarak Sanstha's"
+},
+{
+"q": "Which electives does the third elective slot offer in TE Computer Science and Design?",
+"type": "semantic",
+"keys": [
+"Elective III - Generative AI"
+],
+"gold": [
+[
+"867747b5",
+3
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 86,
+"answer": null
+},
+{
+"q": "What is the college code of JAIKRANTI COLLEGE OF COMPUTER SCIENCE & MANAGEMENT STUDIES, PUNE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-1093:"
+],
+"gold": [
+[
+"296116f8",
+64
+]
+],
+"src": "v1",
+"split": "test",
+"id": 87,
+"answer": "College-1093"
+},
+{
+"q": "Which college is examination centre College-142 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-142:"
+],
+"gold": [
+[
+"296116f8",
+12
+]
+],
+"src": "v1",
+"split": "test",
+"id": 88,
+"answer": null
+},
+{
+"q": "What is the college code of VIKAS PRATISHTHAN'S LATE T.D.PATHARE ARTS, COMMERCE & SCIENCE COLLEGE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-0803:"
+],
+"gold": [
+[
+"296116f8",
+43
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 89,
+"answer": "College-0803"
+},
+{
+"q": "Which music exams are accepted as an alternative for the one-year MABY music programme?",
+"type": "semantic",
+"keys": [
+"Sangeet Visharad",
+"MABY"
+],
+"gold": [
+[
+"5c2b379e",
+100
+],
+[
+"77469d6a",
+103
+]
+],
+"src": "v1",
+"split": "test",
+"id": 90,
+"answer": null
+},
+{
+"q": "Which kinetics practical studies how fast ethyl acetate reacts with an alkali?",
+"type": "semantic",
+"keys": [
+"saponification"
+],
+"gold": [
+[
+"3ee2c7b7",
+3
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 91,
+"answer": null
+},
+{
+"q": "What is the college code of CARNEL VIDYA BHAVAN TRUST'S CHRIST ARTS, COMMERCE & SCI. COLLEGE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-0829:"
+],
+"gold": [
+[
+"296116f8",
+49
+]
+],
+"src": "v1",
+"split": "test",
+"id": 92,
+"answer": "College-0829"
+},
+{
+"q": "Which German language qualification makes someone eligible for the master's in German?",
+"type": "semantic",
+"keys": [
+"Department of Foreign Languages"
+],
+"gold": [
+[
+"5c2b379e",
+82
+],
+[
+"77469d6a",
+84
+]
+],
+"src": "v1",
+"split": "test",
+"id": 93,
+"answer": null
+},
+{
+"q": "Which college is examination centre College-0784 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0784:"
+],
+"gold": [
+[
+"296116f8",
+41
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 94,
+"answer": "KANNADA SANGH'S KAVERI COLLEGE OF SCIENCE & COMMERCE"
+},
+{
+"q": "Which college or institute has Puncode CAAP013000 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAP013000"
+],
+"gold": [
+[
+"69167308",
+37
+],
+[
+"69167308",
+60
+]
+],
+"src": "v1",
+"split": "test",
+"id": 95,
+"answer": "KES' Pratibha College"
+},
+{
+"q": "Which college is examination centre College-119 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-119:"
+],
+"gold": [
+[
+"296116f8",
+11
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 96,
+"answer": null
+},
+{
+"q": "Which university is listed at serial number 922 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"922. Madurai Kamraj University"
+],
+"gold": [
+[
+"77469d6a",
+149
+]
+],
+"src": "v1",
+"split": "test",
+"id": 97,
+"answer": "Madurai Kamraj University"
+},
+{
+"q": "What is the title of course IT103MJ?",
+"type": "id",
+"keys": [
+"IT103MJ Basics of Computer Network"
+],
+"gold": [
+[
+"34860505",
+4
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 98,
+"answer": null
+},
+{
+"q": "What is the title of course IT352MJ?",
+"type": "id",
+"keys": [
+"IT352MJ"
+],
+"gold": [
+[
+"34860505",
+9
+]
+],
+"src": "script",
+"split": "test",
+"id": 99,
+"answer": "Software Testing"
+},
+{
+"q": "Which college or institute has Puncode CPHD018970 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CPHD018970"
+],
+"gold": [
+[
+"69167308",
+76
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 100,
+"answer": "SSR College of"
+},
+{
+"q": "Which case study is about improving chest X-ray images for pneumonia?",
+"type": "semantic",
+"keys": [
+"Chest X-Ray"
+],
+"gold": [
+[
+"867747b5",
+30
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 101,
+"answer": null
+},
+{
+"q": "How many credits does the sixth semester internship carry?",
+"type": "semantic",
+"keys": [
+"Structure for Semester-VI",
+"Internship"
+],
+"gold": [
+[
+"f7e2e79f",
+8
+]
+],
+"src": "hand",
+"split": "test",
+"id": 102,
+"answer": null
+},
+{
+"q": "What is the college code of G.H.RAISONI COLLEGE OF ARTS,COMMERCE& SCIENCE COLLEGE as an electronics practical examination centre?",
+"type": "mixed",
+"keys": [
+"College-0844:"
+],
+"gold": [
+[
+"296116f8",
+51
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 103,
+"answer": "College-0844"
+},
+{
+"q": "Which college or institute has Puncode CAAN017420 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAN017420"
+],
+"gold": [
+[
+"69167308",
+95
+]
+],
+"src": "v1",
+"split": "test",
+"id": 104,
+"answer": "G.M.D. Arts, B.W."
+},
+{
+"q": "Which college is examination centre College-0234 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0234:"
+],
+"gold": [
+[
+"296116f8",
+25
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 105,
+"answer": "B.J. ARTS, COMMERCE & SCIENCE COLLEGE"
+},
+{
+"q": "Which Indian books on human values are in the reference list?",
+"type": "semantic",
+"keys": [
+"Jeevan Vidya"
+],
+"gold": [
+[
+"fa9dbe66",
+45
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 106,
+"answer": "Jeevan Vidya"
+},
+{
+"q": "What are the entry requirements for the teacher education degree?",
+"type": "semantic",
+"keys": [
+"Bachelor of Education"
+],
+"gold": [
+[
+"5c2b379e",
+94
+],
+[
+"77469d6a",
+97
+]
+],
+"src": "v1",
+"split": "test",
+"id": 107,
+"answer": null
+},
+{
+"q": "Which college or institute has Puncode CAAP015990 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAP015990"
+],
+"gold": [
+[
+"69167308",
+35
+]
+],
+"src": "v1",
+"split": "test",
+"id": 108,
+"answer": "B.D.Kale Mahavidyalaya, Ghodegaon"
+},
+{
+"q": "Which university is listed at serial number 411 in the list of recognised universities?",
+"type": "id",
+"keys": [
+"411. Adichunchanagiri University"
+],
+"gold": [
+[
+"77469d6a",
+128
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 109,
+"answer": "Adichunchanagiri University"
+},
+{
+"q": "What is the aim of experiment O-3 in CH-303 Practical Chemistry-III?",
+"type": "id",
+"keys": [
+"Expt No. O-3:"
+],
+"gold": [
+[
+"3ee2c7b7",
+12
+]
+],
+"src": "v1",
+"split": "test",
+"id": 110,
+"answer": "Preparation of acetanilide from Aniline and"
+},
+{
+"q": "Which college or institute has Puncode CPHP011060 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CPHP011060"
+],
+"gold": [
+[
+"69167308",
+71
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 111,
+"answer": "Rajgad Dnyanpeths College"
+},
+{
+"q": "Which college or institute has Puncode CEGP013880 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CEGP013880"
+],
+"gold": [
+[
+"69167308",
+54
+]
+],
+"src": "v1",
+"split": "test",
+"id": 112,
+"answer": "Sinhgad Institute of"
+},
+{
+"q": "Which cloud assignment asks students to deploy a simple Hello World app on a platform service?",
+"type": "semantic",
+"keys": [
+"Google App Engine"
+],
+"gold": [
+[
+"34860505",
+22
+],
+[
+"34860505",
+25
+],
+[
+"34860505",
+43
+]
+],
+"src": "hand",
+"split": "dev",
+"id": 113,
+"answer": "Google App Engine"
+},
+{
+"q": "What is the course code of Web Technologies?",
+"type": "mixed",
+"keys": [
+"IT371VSCP",
+"Web"
+],
+"gold": [
+[
+"34860505",
+9
+]
+],
+"src": "script",
+"split": "test",
+"id": 114,
+"answer": "IT371VSCP"
+},
+{
+"q": "Which college or institute has Puncode CAAA016420 and where is its competition venue?",
+"type": "id",
+"keys": [
+"CAAA016420"
+],
+"gold": [
+[
+"69167308",
+103
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 115,
+"answer": "Dadapatil Rajale Atrs"
+},
+{
+"q": "Which college is examination centre College-0854 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0854:"
+],
+"gold": [
+[
+"296116f8",
+55
+]
+],
+"src": "v1",
+"split": "test",
+"id": 116,
+"answer": "COLLEGE OF COMPUTER SCIENCE"
+},
+{
+"q": "Who is eligible for admission to a master's in social work?",
+"type": "semantic",
+"keys": [
+"Master of Social Work"
+],
+"gold": [
+[
+"5c2b379e",
+102
+],
+[
+"77469d6a",
+105
+]
+],
+"src": "v1",
+"split": "test",
+"id": 117,
+"answer": null
+},
+{
+"q": "Which college is examination centre College-0826 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-0826:"
+],
+"gold": [
+[
+"296116f8",
+47
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 118,
+"answer": null
+},
+{
+"q": "What is the title of course IT359MJ?",
+"type": "id",
+"keys": [
+"IT359MJ"
+],
+"gold": [
+[
+"34860505",
+9
+]
+],
+"src": "script",
+"split": "test",
+"id": 119,
+"answer": "Dot net framework Using ASP"
+},
+{
+"q": "Which graduates can apply for a master's programme in yoga?",
+"type": "semantic",
+"keys": [
+"M.A.(Yoga)"
+],
+"gold": [
+[
+"5c2b379e",
+97
+],
+[
+"77469d6a",
+100
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 120,
+"answer": null
+},
+{
+"q": "Which college is examination centre College-186 for the S.Y.B.Sc. Computer Science electronics practical?",
+"type": "id",
+"keys": [
+"College-186:"
+],
+"gold": [
+[
+"296116f8",
+17
+]
+],
+"src": "v1",
+"split": "dev",
+"id": 121,
+"answer": "MARATHWADA MITRA MANDAL'S COLLEGE OF COMMERCE, PUNE"
+}
+]

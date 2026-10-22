@@ -1,0 +1,200 @@
+{"sys": "old", "id": 0, "pred": "P.E.S.'S MODERN COLLEGE OF ARTS,COMMERCE& SCIENCE, SHIVAJINAGAR, PUNE", "ctx": [753, 30, 862]}
+{"sys": "hybrid", "id": 0, "pred": "FERGUSSON COLLEGE, PUNE -411004", "ctx": [753, 862, 848]}
+{"sys": "new", "id": 0, "pred": "FERGUSSON COLLEGE, PUNE -411004", "ctx": [753, 805, 829]}
+{"sys": "old", "id": 2, "pred": "NOT FOUND", "ctx": [1550, 1513, 1449]}
+{"sys": "hybrid", "id": 2, "pred": "Data Analysis Tool", "ctx": [1465, 1449, 1533]}
+{"sys": "new", "id": 2, "pred": "Data Analysis Tool", "ctx": [1465, 1533, 1530]}
+{"sys": "old", "id": 3, "pred": "Direct Digital Control (DDC)", "ctx": [1376, 1374, 1431]}
+{"sys": "hybrid", "id": 3, "pred": "Direct Digital Control (DDC)", "ctx": [1376, 1374, 1431]}
+{"sys": "new", "id": 3, "pred": "Direct Digital Control (DDC)", "ctx": [1376, 1431, 1432]}
+{"sys": "old", "id": 6, "pred": "NOT FOUND", "ctx": [1571, 1716, 1450]}
+{"sys": "hybrid", "id": 6, "pred": "26", "ctx": [1716, 1450, 94]}
+{"sys": "new", "id": 6, "pred": "NOT FOUND", "ctx": [94, 1463, 1450]}
+{"sys": "old", "id": 9, "pred": "NOT FOUND", "ctx": [1129, 1075, 1093]}
+{"sys": "new", "id": 9, "pred": "NOT FOUND", "ctx": [1075, 944, 997]}
+{"sys": "old", "id": 10, "pred": "NOT FOUND", "ctx": [1550, 1271, 1449]}
+{"sys": "new", "id": 10, "pred": "Entrepreneurship Development", "ctx": [1584, 1650, 1587]}
+{"sys": "old", "id": 11, "pred": "Database Management Laboratory", "ctx": [1586, 1698, 1706]}
+{"sys": "new", "id": 11, "pred": "Database Management Laboratory", "ctx": [1706, 1586, 1584]}
+{"sys": "old", "id": 12, "pred": "Mobile Application Development", "ctx": [1463, 1550, 1513]}
+{"sys": "new", "id": 12, "pred": "Mobile Application Development", "ctx": [1463, 1530, 1533]}
+{"sys": "old", "id": 13, "pred": "170 credits", "ctx": [1184, 124, 48]}
+{"sys": "new", "id": 13, "pred": "170 credits", "ctx": [1184, 1148, 1160]}
+{"sys": "old", "id": 14, "pred": "Research Project", "ctx": [1467, 1550, 1494]}
+{"sys": "new", "id": 14, "pred": "Research Project", "ctx": [1467, 1468, 1457]}
+{"sys": "old", "id": 15, "pred": "Sobel, Canny, Prewitt", "ctx": [1265, 1263, 1294]}
+{"sys": "new", "id": 15, "pred": "Sobel, Canny", "ctx": [1265, 1264, 1293]}
+{"sys": "old", "id": 16, "pred": "NOT FOUND", "ctx": [1533, 1513, 1494]}
+{"sys": "new", "id": 16, "pred": "IT321VSC", "ctx": [1464, 1463, 1513]}
+{"sys": "old", "id": 17, "pred": "IT410MJ", "ctx": [1472, 1467, 1471]}
+{"sys": "new", "id": 17, "pred": "IT410MJ", "ctx": [1467, 1471, 1472]}
+{"sys": "old", "id": 21, "pred": "NOT FOUND", "ctx": [1129, 1093, 1089]}
+{"sys": "new", "id": 21, "pred": "NOT FOUND", "ctx": [1129, 964, 946]}
+{"sys": "old", "id": 24, "pred": "OPC\u202fUA, MQTT, CoAP, LoRA, LoRaWAN, Modbus, Zigbee, LWM2M, HTTP, Wi\u2011Fi, Bluetooth\u202f&\u202fBLE, Cellular, Ethernet, TLS/SSL, DTLS, BACnet.", "ctx": [1376, 1374, 1728]}
+{"sys": "new", "id": 24, "pred": "MQTT, OPC Unified Architecture, Modbus, Zigbee, BACnet, LoRaWAN, CoAP, LoRA, LWM2M, HTTP, Wi\u2011Fi, Bluetooth & BLE, Cellular, Ethernet, TLS/SSL, DTLS.", "ctx": [1374, 1376, 1373]}
+{"sys": "old", "id": 28, "pred": "NOT FOUND", "ctx": [374, 10, 3]}
+{"sys": "new", "id": 28, "pred": "MIT Vishwaprayag University, Solapur Village Kegaon, Solapur-Pune Highway, Taluka North Solapur, District Solapur 413255 Maharashtra Private", "ctx": [672, 671, 373]}
+{"sys": "old", "id": 29, "pred": "NOT FOUND", "ctx": [30, 862, 753]}
+{"sys": "new", "id": 29, "pred": "MAHARASHTRA COLLEGE OF SCIENCE & COMMERCE,KOTHRUD, PUNE", "ctx": [812, 811, 824]}
+{"sys": "old", "id": 30, "pred": "NOT FOUND", "ctx": [906, 870, 874]}
+{"sys": "new", "id": 30, "pred": "To study the kinetics of saponification reaction between sodium hydroxide and ethyl acetate.", "ctx": [866, 864, 870]}
+{"sys": "old", "id": 33, "pred": "NOT FOUND", "ctx": [868, 876, 870]}
+{"sys": "new", "id": 33, "pred": "To determine energy of activation of the reaction between potassium per sulphate (K\u2082S\u2082O\u2088) and KI with unequal initial concentration.", "ctx": [868, 870, 882]}
+{"sys": "old", "id": 34, "pred": "NOT FOUND", "ctx": [1596, 1629, 1630]}
+{"sys": "new", "id": 34, "pred": "IT302MJ", "ctx": [1463, 1629, 1596]}
+{"sys": "old", "id": 35, "pred": "NOT FOUND", "ctx": [1129, 1093, 1083]}
+{"sys": "new", "id": 35, "pred": "NOT FOUND", "ctx": [971, 954, 928]}
+{"sys": "old", "id": 37, "pred": "9", "ctx": [1184, 1188, 1189]}
+{"sys": "new", "id": 37, "pred": "9", "ctx": [1184, 755, 57]}
+{"sys": "old", "id": 38, "pred": "NOT FOUND", "ctx": [30, 862, 753]}
+{"sys": "new", "id": 38, "pred": "S.N.B.P. COLLEGE,YERAWADA , PUNE", "ctx": [855, 829, 811]}
+{"sys": "old", "id": 39, "pred": "E\u2011R diagram, Identify Entities, Attributes of entities and Relationship between entities.", "ctx": [1553, 1514, 1687]}
+{"sys": "new", "id": 39, "pred": "Assignment\u202f1:\u202fEntity\u2011Relationship\u202f(ER)\u202fModel", "ctx": [1553, 1713, 1552]}
+{"sys": "old", "id": 40, "pred": "NOT FOUND", "ctx": [1550, 1533, 1407]}
+{"sys": "new", "id": 40, "pred": "Data Mining", "ctx": [1465, 1533, 1530]}
+{"sys": "old", "id": 41, "pred": "College-0187", "ctx": [783, 847, 805]}
+{"sys": "new", "id": 41, "pred": "College-0187", "ctx": [783, 805, 847]}
+{"sys": "old", "id": 42, "pred": "IT304MJ", "ctx": [1463, 1491, 1487]}
+{"sys": "new", "id": 42, "pred": "IT304MJ", "ctx": [1463, 1471, 1467]}
+{"sys": "old", "id": 43, "pred": "NOT FOUND", "ctx": [374, 213, 10]}
+{"sys": "new", "id": 43, "pred": "U.P. King George's University of Dental Sciences Lucknow Uttar Pradesh State", "ctx": [373, 2, 726]}
+{"sys": "old", "id": 44, "pred": "NOT FOUND", "ctx": [374, 2, 3]}
+{"sys": "new", "id": 44, "pred": "Maharashtra National Law University, Nagpur Training Institute(JOTI), Civil Lines, C P Club Road, Nagpur 440001 Maharashtra State", "ctx": [670, 668, 702]}
+{"sys": "old", "id": 46, "pred": "214", "ctx": [787, 862, 1125]}
+{"sys": "new", "id": 46, "pred": "214", "ctx": [787, 772, 1039]}
+{"sys": "old", "id": 47, "pred": "3", "ctx": [1166, 1422, 1678]}
+{"sys": "new", "id": 47, "pred": "3", "ctx": [1166, 1678, 1167]}
+{"sys": "old", "id": 48, "pred": "NOT FOUND", "ctx": [30, 862, 753]}
+{"sys": "new", "id": 48, "pred": "SNBP COLLEGE OF ARTS, COMMERCE & SCIENCE, PIMPRI PUNE", "ctx": [846, 850, 842]}
+{"sys": "old", "id": 49, "pred": "NOT FOUND", "ctx": [374, 10, 3]}
+{"sys": "new", "id": 49, "pred": "NOT FOUND", "ctx": [702, 668, 209]}
+{"sys": "old", "id": 50, "pred": "NOT FOUND", "ctx": [1550, 1513, 1474]}
+{"sys": "new", "id": 50, "pred": "Cloud Computing", "ctx": [1473, 1474, 1491]}
+{"sys": "old", "id": 52, "pred": "The problem may be theoretical, practical, social, technical, symbolic, cultural and/or scientific.", "ctx": [1345, 1156, 1258]}
+{"sys": "new", "id": 52, "pred": "theoretical, practical, social, technical, symbolic, cultural and/or scientific", "ctx": [1156, 1345, 1258]}
+{"sys": "old", "id": 53, "pred": "Familiarization with College, Department and Branch; Literary Activity; Proficiency Modules; Lectures by Eminent People; Visit to Local Area; Extracurricular Activities in College.", "ctx": [1152, 1153, 1676]}
+{"sys": "new", "id": 53, "pred": "Induction Program, Physical Activity, Creative Arts, Lectures by Eminent People, Visit to local Area, Extracurricular activities, Feedback and Report, Address by Principal/HOD\u2019s, branch\u2011wise allocation of students, detailed timetable of activities.", "ctx": [1150, 1153, 1676]}
+{"sys": "old", "id": 54, "pred": "NOT FOUND", "ctx": [862, 753, 842]}
+{"sys": "new", "id": 54, "pred": "0836", "ctx": [825, 842, 796]}
+{"sys": "old", "id": 55, "pred": "IT155MJ", "ctx": [1494, 1537, 1542]}
+{"sys": "new", "id": 55, "pred": "IT155MJ", "ctx": [1494, 1537, 1538]}
+{"sys": "old", "id": 56, "pred": "Exploratory Data Analysis", "ctx": [1550, 1461, 1726]}
+{"sys": "new", "id": 56, "pred": "Exploratory Data Analysis", "ctx": [1461, 1471, 1459]}
+{"sys": "old", "id": 58, "pred": "Angular JS", "ctx": [1550, 1467, 1471]}
+{"sys": "new", "id": 58, "pred": "Angular JS", "ctx": [1467, 1471, 1457]}
+{"sys": "old", "id": 59, "pred": "0851", "ctx": [847, 44, 862]}
+{"sys": "new", "id": 59, "pred": "College-0851", "ctx": [847, 829, 799]}
+{"sys": "old", "id": 60, "pred": "NOT FOUND", "ctx": [1129, 1093, 1083]}
+{"sys": "new", "id": 60, "pred": "SHRI\u202fPANDHARINATH\u202fARTS,\u202fCOMMERCE\u202fAND\u202fSCIENCE\u202fCOLLEGE,\u202fPOKHARI \u2013 competition venue: Chandmal\u202fBora\u202fArts,\u202fCommerce\u202f&\u202fScience\u202fCollege,\u202fShirur,\u202fPune.", "ctx": [921, 982, 1016]}
+{"sys": "old", "id": 63, "pred": "Angular JS", "ctx": [1471, 1467, 1550]}
+{"sys": "new", "id": 63, "pred": "Angular JS", "ctx": [1471, 1467, 1457]}
+{"sys": "old", "id": 65, "pred": "NOT FOUND", "ctx": [1467, 1487, 1494]}
+{"sys": "new", "id": 65, "pred": "Research Methodology", "ctx": [1467, 1468, 1471]}
+{"sys": "old", "id": 66, "pred": "IT155MJ", "ctx": [1537, 1494, 1542]}
+{"sys": "new", "id": 66, "pred": "IT155MJ", "ctx": [1537, 1538, 1542]}
+{"sys": "old", "id": 68, "pred": "Data Structures Laboratory", "ctx": [1698, 1583, 1271]}
+{"sys": "new", "id": 68, "pred": "Data Structures Laboratory", "ctx": [1612, 1584, 1583]}
+{"sys": "old", "id": 69, "pred": "NOT FOUND", "ctx": [1343, 1408, 1475]}
+{"sys": "new", "id": 69, "pred": "IT403MJ", "ctx": [1467, 1471, 1590]}
+{"sys": "old", "id": 70, "pred": "Modern Operating System", "ctx": [1471, 1467, 1550]}
+{"sys": "new", "id": 70, "pred": "Modern Operating System", "ctx": [1471, 1467, 1457]}
+{"sys": "old", "id": 71, "pred": "NOT FOUND", "ctx": [7, 378, 390]}
+{"sys": "new", "id": 71, "pred": "Allowed To Keep Term", "ctx": [416, 46, 1160]}
+{"sys": "old", "id": 72, "pred": "NOT FOUND", "ctx": [1550, 1487, 1513]}
+{"sys": "new", "id": 72, "pred": "Object Oriented Programming using Python", "ctx": [1459, 1494, 1471]}
+{"sys": "old", "id": 73, "pred": "NOT FOUND", "ctx": [374, 213, 10]}
+{"sys": "new", "id": 73, "pred": "Uttarakhand Sanskrit University NH-58, BHEL More, Haridwar-Delhi National Highway, P.O. Bahadarabad Haridwar 249 402 Uttarakhand State", "ctx": [732, 585, 668]}
+{"sys": "old", "id": 74, "pred": "NOT FOUND", "ctx": [1530, 1487, 1491]}
+{"sys": "new", "id": 74, "pred": "IT456MJ", "ctx": [1530, 1473, 1461]}
+{"sys": "old", "id": 75, "pred": "Problem Solving using Python Programming", "ctx": [1455, 1550, 1708]}
+{"sys": "new", "id": 75, "pred": "Problem Solving using Python Programming", "ctx": [1455, 1475, 1457]}
+{"sys": "old", "id": 77, "pred": "Cyber Security", "ctx": [1471, 1550, 1513]}
+{"sys": "new", "id": 77, "pred": "Cyber Security", "ctx": [1471, 1467, 1494]}
+{"sys": "old", "id": 78, "pred": "Detained, Repeat the Course", "ctx": [1185, 1187, 1184]}
+{"sys": "new", "id": 78, "pred": "FX Grade \u2013 The grade FX in a course is awarded by the college, if a student does not maintain the minimum attendance in the Lecture / Tutorial class as prescribed by the SPPU and/or his performance during the semester is not satisfactory and/or he/she fails in the Term Work head of that course.", "ctx": [1186, 1175, 1185]}
+{"sys": "old", "id": 79, "pred": "NOT FOUND", "ctx": [374, 3, 10]}
+{"sys": "new", "id": 79, "pred": "Sister Nivedita University", "ctx": [737, 702, 373]}
+{"sys": "old", "id": 80, "pred": "NOT FOUND", "ctx": [1129, 1093, 1083]}
+{"sys": "new", "id": 80, "pred": "NOT FOUND", "ctx": [1016, 997, 954]}
+{"sys": "old", "id": 82, "pred": "To determine the order of the reaction with respect to potassium per sulphate (K\u2082S\u2082O\u2088) by fractional life method following the kinetics of per sulphate\u2011iodide reaction.", "ctx": [872, 906, 870]}
+{"sys": "new", "id": 82, "pred": "NOT FOUND", "ctx": [870, 866, 906]}
+{"sys": "old", "id": 84, "pred": "Pune Vidyarthi Griha\u2019s College of Engineering & Shrikrushna\u202fS.\u202fDhamankar Institute of Management.", "ctx": [1129, 1097, 1071]}
+{"sys": "new", "id": 84, "pred": "Pune Vidyarthi Griha\u2019s College of Engineering & Shrikrushna S. Dhamankar Institute of Management. Competition venue: Pune Vidyarthi Griha\u2019s College of Engineering & Shrikrushna S. Dhamankar Institute of Management.", "ctx": [1097, 1066, 971]}
+{"sys": "old", "id": 85, "pred": "Shikshan\u202fPrasarak\u202fSanstha's\u202fShri.\u202fOmkarnath\u202fMalpani\u202fLaw\u202fCollege,\u202fSangamner; competition venue:\u202fSahakar\u202fMaharshi\u202fBhausaheb\u202fSantuj\u012b\u202fThorat\u202fArts,\u202fScience\u202f&\u202fCommerce\u202fCollege,\u202fSangamner,\u202fAhilyanagar.", "ctx": [1133, 1129, 1093]}
+{"sys": "new", "id": 85, "pred": "Shikshan\u202fPrasarak\u202fSanstha's\u202fShri.\u202fOmkarnath\u202fMalpani\u202fLaw\u202fCollege,\u202fSangamner \u2013 competition venue:\u202fSangamner.", "ctx": [1133, 1003, 1043]}
+{"sys": "old", "id": 87, "pred": "1093", "ctx": [859, 862, 860]}
+{"sys": "new", "id": 87, "pred": "1093", "ctx": [859, 847, 860]}
+{"sys": "old", "id": 89, "pred": "0803", "ctx": [829, 862, 34]}
+{"sys": "new", "id": 89, "pred": "College-0803", "ctx": [829, 847, 799]}
+{"sys": "old", "id": 92, "pred": "0829", "ctx": [840, 862, 753]}
+{"sys": "new", "id": 92, "pred": "College-0829", "ctx": [840, 851, 799]}
+{"sys": "old", "id": 94, "pred": "NOT FOUND", "ctx": [30, 753, 862]}
+{"sys": "new", "id": 94, "pred": "KANNADA SANGH'S KAVERI COLLEGE OF SCIENCE & COMMERCE", "ctx": [848, 829, 826]}
+{"sys": "old", "id": 95, "pred": "NOT FOUND", "ctx": [1129, 1093, 1083]}
+{"sys": "new", "id": 95, "pred": "NOT FOUND", "ctx": [954, 971, 1022]}
+{"sys": "old", "id": 97, "pred": "NOT FOUND", "ctx": [374, 213, 2]}
+{"sys": "new", "id": 97, "pred": "Monad University", "ctx": [703, 337, 705]}
+{"sys": "old", "id": 99, "pred": "NOT FOUND", "ctx": [1550, 1513, 1494]}
+{"sys": "new", "id": 99, "pred": "Software Testing", "ctx": [1465, 1457, 1530]}
+{"sys": "old", "id": 100, "pred": "SSR College of Pharmacy, Silvassa; Loknete Vyankatrao Hiray Arts, Science & Commerce College, Nashik; Krantiveer Vasantrao Narayanrao Naik Shikshan Prasarak Sanstha's Arts, Commerce & Science College, Nashik; K.K Wagh Institute Of Engineering Education and Research, Panchavati, Nashik", "ctx": [1067, 1129, 1093]}
+{"sys": "new", "id": 100, "pred": "NOT FOUND", "ctx": [1067, 971, 1003]}
+{"sys": "old", "id": 103, "pred": "0844", "ctx": [843, 862, 28]}
+{"sys": "new", "id": 103, "pred": "College-0844", "ctx": [843, 825, 829]}
+{"sys": "old", "id": 104, "pred": "NOT FOUND", "ctx": [1129, 1093, 1083]}
+{"sys": "new", "id": 104, "pred": "NOT FOUND", "ctx": [1105, 997, 1077]}
+{"sys": "old", "id": 105, "pred": "NOT FOUND", "ctx": [30, 753, 862]}
+{"sys": "new", "id": 105, "pred": "B.J. ARTS, COMMERCE & SCIENCE COLLEGE", "ctx": [797, 849, 850]}
+{"sys": "old", "id": 106, "pred": "Jeevan Vidya: Ek Parichaya  \nFoundations of Ethics and Management  \nHuman Values  \nIndian Ethos and Modern Management  \nEngineering Ethics and Human Values", "ctx": [1673, 1674, 1667]}
+{"sys": "new", "id": 106, "pred": "A. Nagaraj, 1999, Jeevan Vidya: Ek Parichaya, Jeevan Vidya Prakashan, Amarkantak  \nA. N. Tripathy, 2003, Human Values, New Age International Publishers  \nB. L. Bajpai, 2004, Indian Ethos and Modern Management, New Royal Book Co., Lucknow. Reprinted 2008.  \nM. Govindrajran, S Natrajan & V.S. Senthil Kumar, Engineering Ethics and Human Values, East- ern Economy Edition, Prentice Hall of India Ltd.", "ctx": [1673, 1756, 1642]}
+{"sys": "old", "id": 108, "pred": "NOT FOUND", "ctx": [1129, 1093, 1083]}
+{"sys": "new", "id": 108, "pred": "B.D.Kale Mahavidyalaya, Ghodegaon; Chandmal\u202fTarachand\u202fBora\u202fArts,\u202fCommerce\u202f&\u202fScience\u202fCollege,\u202fShirur,\u202fPune", "ctx": [980, 989, 1030]}
+{"sys": "old", "id": 109, "pred": "NOT FOUND", "ctx": [374, 10, 3]}
+{"sys": "new", "id": 109, "pred": "NOT FOUND", "ctx": [292, 286, 285]}
+{"sys": "old", "id": 110, "pred": "NOT FOUND", "ctx": [888, 882, 876]}
+{"sys": "new", "id": 110, "pred": "NOT FOUND", "ctx": [882, 866, 870]}
+{"sys": "old", "id": 111, "pred": "Rajgad Dnyanpeths College of Pharmacy \u2013 Jayawantrao\u202fSawant Commerce and Science College, Hadapsar, Pune.", "ctx": [1057, 1129, 1093]}
+{"sys": "new", "id": 111, "pred": "Rajgad Dnyanpeths College of Pharmacy \u2013 competition venue: Jayawantrao\u202fSawant Commerce and Science College, Hadapsar, Pune.", "ctx": [1057, 1003, 1097]}
+{"sys": "old", "id": 112, "pred": "Sinhgad Institute of Technology and Science \u2013 Narhe, Pune.", "ctx": [1129, 1022, 1071]}
+{"sys": "new", "id": 112, "pred": "Sinhgad Institute of Technology and Science, Narhe, Pune", "ctx": [966, 1022, 971]}
+{"sys": "old", "id": 113, "pred": "Assignment 5: Cloud Service Models---PaaS", "ctx": [1502, 1503, 1500]}
+{"sys": "new", "id": 113, "pred": "Assignment 5.", "ctx": [1543, 1502, 1503]}
+{"sys": "old", "id": 114, "pred": "NOT FOUND", "ctx": [1255, 1530, 1732]}
+{"sys": "new", "id": 114, "pred": "PCC302CSD-Web Technology", "ctx": [1232, 1254, 1255]}
+{"sys": "old", "id": 115, "pred": "Dadapatil Rajale Atrs and Science College Adinathnagar; Hind\u202fSeva\u202fMandal's\u202fPremraj\u202fSarda\u202fCollege, Ahilyanagar", "ctx": [1121, 1129, 1093]}
+{"sys": "new", "id": 115, "pred": "Dadapatil Rajale Atrs and Science College Adinathnagar; Hind\u202fSeva\u202fMandal's\u202fPremraj\u202fSarda\u202fCollege, Ahilyanagar", "ctx": [1121, 997, 1039]}
+{"sys": "old", "id": 116, "pred": "NOT FOUND", "ctx": [30, 862, 753]}
+{"sys": "new", "id": 116, "pred": "COLLEGE OF COMPUTER SCIENCE", "ctx": [848, 829, 847]}
+{"sys": "old", "id": 119, "pred": "NOT FOUND", "ctx": [1550, 1513, 1708]}
+{"sys": "new", "id": 119, "pred": "Dot net framework Using ASP", "ctx": [1465, 1466, 1494]}
+{"sys": "old", "id": 121, "pred": "NOT FOUND", "ctx": [30, 862, 753]}
+{"sys": "new", "id": 121, "pred": "NOT FOUND", "ctx": [811, 850, 829]}
+{"sys": "hybrid", "id": 9, "pred": "NOT FOUND", "ctx": [1075, 1066, 971]}
+{"sys": "hybrid", "id": 10, "pred": "Entrepreneurship Development", "ctx": [1650, 1587, 1584]}
+{"sys": "hybrid", "id": 11, "pred": "Database Management Laboratory", "ctx": [1586, 1587, 1718]}
+{"sys": "hybrid", "id": 12, "pred": "Mobile Application Development", "ctx": [1463, 1449, 1533]}
+{"sys": "hybrid", "id": 13, "pred": "170 credits", "ctx": [418, 1148, 48]}
+{"sys": "hybrid", "id": 14, "pred": "Research Project", "ctx": [1467, 1449, 1271]}
+{"sys": "hybrid", "id": 15, "pred": "Sobel, Canny", "ctx": [1265, 1264, 1263]}
+{"sys": "hybrid", "id": 16, "pred": "IT321VSC", "ctx": [1463, 1533, 1540]}
+{"sys": "hybrid", "id": 17, "pred": "IT410MJ", "ctx": [1472, 1467, 1471]}
+{"sys": "hybrid", "id": 21, "pred": "Chnadraroop Dakle Jain College of Commerce, Sahakar Maharshi Bhausaheb Santuj\u012b Thorat Arts, Science & Commerce College, Sangamner, Ahilyanagar \u2013 Competition venue: Ahilyanagar", "ctx": [1129, 1066, 971]}
+{"sys": "hybrid", "id": 24, "pred": "OPC\u202fUA, MQTT, CoAP, LoRA, LoRaWAN, Modbus, Zigbee, LWM2M, HTTP, Wi\u2011Fi, Bluetooth\u202f&\u202fBLE, Cellular, Ethernet, TLS/SSL, DTLS.", "ctx": [1374, 1727, 1376]}
+{"sys": "hybrid", "id": 28, "pred": "NOT FOUND", "ctx": [2, 373, 213]}
+{"sys": "hybrid", "id": 29, "pred": "MAHARASHTRA COLLEGE OF SCIENCE & COMMERCE,KOTHRUD, PUNE", "ctx": [812, 862, 848]}
+{"sys": "hybrid", "id": 30, "pred": "To study the kinetics of saponification reaction between sodium hydroxide and ethyl acetate.", "ctx": [866, 868, 864]}
+{"sys": "hybrid", "id": 33, "pred": "NOT FOUND", "ctx": [866, 868, 864]}
+{"sys": "hybrid", "id": 34, "pred": "NOT FOUND", "ctx": [1596, 1629, 1630]}
+{"sys": "hybrid", "id": 35, "pred": "NOT FOUND", "ctx": [971, 1066, 954]}
+{"sys": "hybrid", "id": 37, "pred": "9", "ctx": [1184, 1186, 1188]}
+{"sys": "hybrid", "id": 38, "pred": "S.N.B.P. COLLEGE,YERAWADA , PUNE", "ctx": [855, 862, 848]}
+{"sys": "hybrid", "id": 39, "pred": "NOT FOUND", "ctx": [1687, 1552, 1514]}
+{"sys": "hybrid", "id": 40, "pred": "Data Mining", "ctx": [1465, 1533, 1449]}
+{"sys": "hybrid", "id": 41, "pred": "0187", "ctx": [783, 1057, 847]}
+{"sys": "hybrid", "id": 42, "pred": "IT412MJ", "ctx": [76, 448, 1471]}
+{"sys": "hybrid", "id": 43, "pred": "NOT FOUND", "ctx": [2, 373, 213]}
+{"sys": "hybrid", "id": 44, "pred": "NOT FOUND", "ctx": [2, 373, 213]}
+{"sys": "hybrid", "id": 46, "pred": "214", "ctx": [787, 1039, 1040]}
+{"sys": "hybrid", "id": 47, "pred": "3", "ctx": [1166, 1626, 1678]}
+{"sys": "hybrid", "id": 48, "pred": "SNBP COLLEGE OF ARTS, COMMERCE & SCIENCE, PIMPRI PUNE", "ctx": [846, 862, 848]}
+{"sys": "hybrid", "id": 49, "pred": "NOT FOUND", "ctx": [2, 373, 213]}
+{"sys": "hybrid", "id": 50, "pred": "Cloud Computing", "ctx": [1473, 1474, 1449]}

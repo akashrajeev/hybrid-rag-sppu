@@ -1,0 +1,23 @@
+{
+ "n_answer_questions": 83,
+ "model": "openai/gpt-oss-20b",
+ "old": {
+  "answer_correct": 0.39759036144578314,
+  "gold_in_context": 0.5180722891566265,
+  "correct_and_grounded": 0.39759036144578314,
+  "said_not_found": 0.5060240963855421,
+  "correct_given_gold_in_context": 0.7674418604651163
+ },
+ "new": {
+  "answer_correct": 0.6626506024096386,
+  "gold_in_context": 0.8192771084337349,
+  "correct_and_grounded": 0.6626506024096386,
+  "said_not_found": 0.1566265060240964,
+  "correct_given_gold_in_context": 0.8088235294117647
+ },
+ "paired_new_vs_old_answer_correct": {
+  "mean": 0.26506024096385544,
+  "lo": 0.14457831325301204,
+  "hi": 0.37349397590361444
+ }
+}
