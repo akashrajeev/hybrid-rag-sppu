@@ -23,7 +23,7 @@ pip install -r requirements.txt          # CPU only; torch/faiss are needed only
 python fetch_data.py                      # prints "MATCHES published corpus"
 python 1_benchmark.py retrieval           # ~2 min, no key needed; numbers below
 BUDGET_S=100000 python 1_benchmark.py generate   # uses cache/llm_cache.jsonl; no key needed if cache is complete
-python 1_benchmark.py report
+python 1_benchmark.py report            # old vs new answer correctness (GEN_SYSTEMS=old,new,hybrid adds the Review-1 hybrid arm, only partly run)
 python 1_benchmark.py rerankers           # optional, ~25 min on 1 CPU
 python 2_rag_app.py "Which college is examination centre College-0002 for the S.Y.B.Sc. Computer Science electronics practical?"
 ```

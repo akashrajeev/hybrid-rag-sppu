@@ -68,7 +68,7 @@ def retrieval():
         elif isinstance(v, dict): print(k, v)
 
 # ---------- step: full RAG (retrieve -> rerank -> generate) ----------
-GEN_SYSTEMS = os.environ.get("GEN_SYSTEMS", "old,new,hybrid").split(",")
+GEN_SYSTEMS = os.environ.get("GEN_SYSTEMS", "old,new").split(",")
 def generate():
     O, _ = orders(); llm = R.Groq(); ix = R.Index(); path = f"{RES}/generations.jsonl"
     done = {(json.loads(l)["sys"], json.loads(l)["id"]) for l in open(path)} if os.path.exists(path) else set()
