@@ -3,7 +3,12 @@ import json, os, re, time, hashlib, threading
 import numpy as np
 from rank_bm25 import BM25Okapi
 
-HERE = os.path.dirname(os.path.abspath(__file__)); DATA = f"{HERE}/data"; CACHE = f"{HERE}/cache"
+HERE = os.path.dirname(os.path.abspath(__file__))
+if os.path.exists(f"{HERE}/.env"):   # simple KEY=value loader so `python 2_rag_app.py` also works with a local .env
+    for _l in open(f"{HERE}/.env"):
+        if "=" in _l and not _l.lstrip().startswith("#"):
+            _k, _v = _l.strip().split("=", 1); os.environ.setdefault(_k.strip(), _v.strip().strip(chr(34)).strip(chr(39)))
+DATA = f"{HERE}/data"; CACHE = f"{HERE}/cache"
 MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-20b")
 RERANKER = "jinaai/jina-reranker-v1-tiny-en"
 EMBEDDER = "BAAI/bge-small-en-v1.5"

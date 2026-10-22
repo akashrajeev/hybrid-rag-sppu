@@ -18,6 +18,13 @@ Licence: MIT for the code (see LICENSE). The SPPU documents themselves are not c
 | `cache/llm_cache.jsonl` | Every Groq response used in the reported numbers, so the generation step reruns identically without a key |
 | `results/` | Raw outputs and `benchmark.md` |
 
+## Run the app with Docker (one command)
+```bash
+cp .env.example .env        # then paste your Groq key after GROQ_API_KEY=
+docker compose up --build   # first build downloads the PDFs and models (a few minutes)
+```
+Open http://localhost:7860 and ask a question. Without a key the page still shows the retrieved, cited chunks (no generated answer). Needs about 1.5 GB of RAM. Without Docker: `python 2_rag_app.py --serve` after the steps below.
+
 ## Reproduce
 ```bash
 python -m venv .venv && source .venv/bin/activate
