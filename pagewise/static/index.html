@@ -1,0 +1,13 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Pagewise</title>
+<link rel=stylesheet href=/static/app.css></head><body>
+<header><b>Pagewise</b><span>ask anything about your PDFs, answers point to the page</span><label class=up>Upload PDF<input id=file type=file accept="application/pdf" hidden></label></header>
+<main>
+<aside><h4>Your documents</h4><div id=docs></div>
+<div id=drop class=drop>Drop a PDF here<small>text PDFs index in seconds</small></div>
+<div id=keynote class=keynote hidden>No GROQ_API_KEY found. Answers show the best passages only. Add the key to .env and restart.</div></aside>
+<section id=view class=view><div id=empty class=empty><div><h1>Drop a PDF to begin</h1><p>Any PDF with selectable text: reports, circulars, papers, manuals. It is read on this machine, split into passages and indexed in a few seconds.</p><p class=small>Scanned pages (images only) have no text layer and are skipped. OCR is not included yet.</p></div></div>
+<div id=sheet class=sheet hidden><div class=pagebox id=pagebox><img id=pageimg alt=""><div id=hls></div></div></div>
+<div id=nav class=nav hidden><button id=prev>&larr;</button><span id=pn></span><button id=next>&rarr;</button></div></section>
+<section class=chat><div id=log class=log></div>
+<form id=form class=ask autocomplete=off><input id=q placeholder="Ask about this document…" disabled><button>&crarr;</button></form></section>
+</main><script src=/static/app.js></script></body></html>

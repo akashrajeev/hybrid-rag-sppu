@@ -1,6 +1,6 @@
 # Hybrid RAG for identifier-heavy university documents (SPPU)
 
-Reproducible benchmark and demo app for the Technical Seminar Review 2 work. Private repo; making it public is the owner's decision.
+Reproducible benchmark and demo app for the Technical Seminar Review 2 work. 
 
 **Honest framing:** this is a measured comparison on an identifier-heavy domain (circulars, exam timetables, syllabi full of codes and tables), not a new retrieval method. The benchmark is small (122 questions, 31 hand-written, page-level gold) and the generation test uses 83 of them.
 
@@ -18,12 +18,22 @@ Licence: MIT for the code (see LICENSE). The SPPU documents themselves are not c
 | `cache/llm_cache.jsonl` | Every Groq response used in the reported numbers, so the generation step reruns identically without a key |
 | `results/` | Raw outputs and `benchmark.md` |
 
-## Run the app with Docker (one command)
+## Pagewise: ask questions about any PDF (Docker, one command)
+Needs Docker (with Compose) and a free Groq key from console.groq.com.
 ```bash
-cp .env.example .env        # then paste your Groq key after GROQ_API_KEY=
-docker compose up --build   # first build downloads the PDFs and models (a few minutes)
+git clone https://github.com/akashrajeev/hybrid-rag-sppu.git
+cd hybrid-rag-sppu
+cp .env.example .env        # open .env and paste your key after GROQ_API_KEY=, nothing else to edit
+docker compose up --build   # builds the image and downloads the two small models once (a few minutes)
 ```
-Open http://localhost:7860 and ask a question. Without a key the page still shows the retrieved, cited chunks (no generated answer). Needs about 1.5 GB of RAM. Without Docker: `python 2_rag_app.py --serve` after the steps below.
+Open http://localhost:7860, drop in a PDF and ask. Each question goes through the retrieval from the benchmark: query cleaning, hybrid BM25 + bge-small search, jina-reranker-v1-tiny, then gpt-oss on Groq. The answer shows the page it came from, and the page opens with the line highlighted.
+
+- Uploaded PDFs are kept in a Docker volume (`library`) and listed on the left, each with a delete link. `docker compose down -v` removes them all.
+- Text PDFs only. A scanned PDF (images, no text layer) is reported as such; OCR is not included.
+- Without a key the page shows the closest passage instead of a generated answer.
+- Run without Docker (Python 3.10+): `pip install -r requirements-app.txt`, then `export GROQ_API_KEY=your_key` (or leave it unset for passages only), then `python -m pagewise` and open http://localhost:7860. The library is stored in `./library` (override with `LIBRARY_DIR`).
+- Update later: `git pull && docker compose up --build`.
+- The benchmark app for the 12 SPPU documents is still here: `docker compose -f docker-compose.sppu.yml up --build` (or `python 2_rag_app.py --serve`).
 
 ## Reproduce
 ```bash
