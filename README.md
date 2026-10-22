@@ -4,6 +4,8 @@ Reproducible benchmark and demo app for the Technical Seminar Review 2 work. Pri
 
 **Honest framing:** this is a measured comparison on an identifier-heavy domain (circulars, exam timetables, syllabi full of codes and tables), not a new retrieval method. The benchmark is small (122 questions, 31 hand-written, page-level gold) and the generation test uses 83 of them.
 
+Licence: MIT for the code (see LICENSE). The SPPU documents themselves are not covered by it.
+
 ## Files
 | File | What it does |
 |---|---|
